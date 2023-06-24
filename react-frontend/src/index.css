@@ -1,0 +1,28 @@
+
+#root{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.tabla{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #ffff;
+    width: 100%;
+}
+.tabla .table{
+    width: 98%;
+    text-align: center;
+}
+.formulario{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
